@@ -16,8 +16,10 @@ The model is a `fasttext` model.
 
 You can now use the model like you would any fasttext model:
 
+`/path/to/fasttext predict fasttext_indic_merged_supervised_model_final.ftz -`
+
+
 ```
-/path/to/fasttext predict fasttext_indic_merged_supervised_model_final.ftz -
 (base) ➜  indic_language_identification git:(master) ✗ ~/fastText/fasttext predict ~/aludra/pegasus/fasttext_indic_merged_supervised_model_final.ftz -
 yeh kaun si bhasha hai
 __label__hi_romanized
