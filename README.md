@@ -30,6 +30,18 @@ __label__hi_romanized
 If you use this work, do cite us:
 
 ```
+@inproceedings{palakodety-khudabukhsh-2020-annotation,
+    title = "Annotation Efficient Language Identification from Weak Labels",
+    author = "Palakodety, Shriphani  and
+      KhudaBukhsh, Ashiqur",
+    booktitle = "Proceedings of the Sixth Workshop on Noisy User-generated Text (W-NUT 2020)",
+    month = nov,
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.wnut-1.24",
+    pages = "181--192",
+}
 ```
 
 (c) Onai 2020
